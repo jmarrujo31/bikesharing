@@ -2,7 +2,7 @@
 --
 
 
-###Determine if Des Moines would be a good fit for a bike sharing program [link to dashboard](LINK GOES HERE)
+###Determine if Des Moines would be a good fit for a bike sharing program [link to dashboard](https://github.com/jmarrujo31/bikesharing)
 -
 
 
