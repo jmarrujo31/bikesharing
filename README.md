@@ -12,7 +12,7 @@
 ![](Checkout Times for Users.png)
 
 ## Checkout Times by Gender
-![](Checkout Times by Gender.png)
+![](/Checkout Times by Gender.png)
 
 ## Trips by Weekday
 ![](Trips by Weekday.png)
