@@ -9,7 +9,7 @@
 ## Results
 
 ## Bike check out time
-![](/bikesharing/Checkout Times for Users.png)
+![](/Checkout Times for Users.png)
 
 ## Checkout Times by Gender
 ![](Checkout Times by Gender.png)
