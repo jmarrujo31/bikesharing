@@ -9,28 +9,28 @@
 ## Results
 
 ## Bike check out time
-![](/Checkout Times for Users.png)
+![](CheckoutTimesforUsers.png)
 
 ## Checkout Times by Gender
-![](Checkout Times by Gender.png)
+![](CheckoutTimesbyGender.png)
 
 ## Trips by Weekday
-![](Trips by Weekday.png)
+![](TripsbyWeekday.png)
 
 ## Trips by Gender Weekday per Hour
-![](Trips by Gender Weekday per Hour.png)
+![](TripsbyGenderWeekdayperHour.png)
 
 ## User Trips by Gender by Weekday
-![](User Trips by Gender by Weekday.png)
+![](UserTripsbyGenderbyWeekday.png)
 
 ## August Peak Hours
-![](August Peak Hours.png)
+![](AugustPeakHours.png)
 
 ## Customers Type
-![](Customers Type.png)
+![](CustomersType.png)
 
 ## Bike Repairs
-![](Bike Repairs.png)
+![](BikeRepairs.png)
 
 
 # Summary
